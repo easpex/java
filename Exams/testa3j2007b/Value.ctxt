@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=Value(int)
+comment1.params=
+comment1.target=int\ getI()
+comment2.params=i
+comment2.target=void\ setI(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

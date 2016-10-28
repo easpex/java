@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ g()
+comment1.params=n
+comment1.target=int\ calc(int)
+comment2.params=str\ target
+comment2.target=boolean\ isSubstring(java.lang.String,\ java.lang.String)
+numComments=3

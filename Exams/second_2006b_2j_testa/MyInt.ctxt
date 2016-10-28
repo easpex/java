@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=MyInt(int)
+comment1.params=v
+comment1.target=void\ set(int)
+comment2.params=
+comment2.target=int\ get()
+comment3.params=x\ v
+comment3.target=void\ doIt1(MyInt,\ int)
+comment4.params=x\ v
+comment4.target=void\ doIt2(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

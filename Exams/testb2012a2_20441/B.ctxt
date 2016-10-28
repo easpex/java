@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=B(int)
+comment1.params=x\ y
+comment1.target=B(int,\ int)
+comment2.params=s
+comment2.target=B(java.lang.String)
+comment3.params=arg
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\npublic\ String\ toString()\ {\r\nreturn\ _x\ +\ "\ "\ +\ _y\ ;\r\n}\r\n
+numComments=4

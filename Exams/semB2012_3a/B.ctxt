@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=B(int)
+comment1.params=b
+comment1.target=boolean\ f(B)
+comment2.params=b
+comment2.target=void\ stam(B)
+comment3.params=a
+comment3.target=void\ stam(A)
+numComments=4

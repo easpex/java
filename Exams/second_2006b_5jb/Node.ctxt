@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=number\ l\ r
+comment0.target=Node(int,\ Node,\ Node)
+comment1.params=
+comment1.target=int\ getNumber()
+comment2.params=
+comment2.target=Node\ getLeftSon()
+comment3.params=
+comment3.target=Node\ getRightSon()
+comment4.params=number
+comment4.target=void\ setNumber(int)
+comment5.params=node
+comment5.target=void\ setLeftSon(Node)
+comment6.params=node
+comment6.target=void\ setRightSon(Node)
+comment7.params=n\ value
+comment7.target=void\ what(Node,\ int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

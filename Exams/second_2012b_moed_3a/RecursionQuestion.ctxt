@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=int\ max(int,\ int)
+comment1.params=a\ b
+comment1.target=int\ differ(int,\ int)
+comment2.params=a\ i\ j
+comment2.target=int\ secret1(int[],\ int,\ int)
+comment3.params=a\ i\ j
+comment3.target=int\ secret2(int[],\ int,\ int)
+comment4.params=a\ k
+comment4.target=int\ secret3(int[],\ int)
+comment5.params=a
+comment5.target=int\ secret4(int[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

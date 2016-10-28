@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=number\ l\ r
+comment0.target=Node(int,\ Node,\ Node)
+comment1.params=
+comment1.target=int\ getNumber()
+comment2.params=
+comment2.target=Node\ getLeftSon()
+comment3.params=
+comment3.target=Node\ getRightSon()
+comment4.params=t
+comment4.target=int\ f(Node)
+comment5.params=t
+comment5.target=void\ f2(Node)
+comment6.params=t\ k
+comment6.target=int\ what(Node,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=number\ l\ r
+comment0.target=Node(int,\ Node,\ Node)
+comment1.params=
+comment1.target=int\ getNumber()
+comment2.params=
+comment2.target=Node\ getLeftSon()
+comment3.params=
+comment3.target=Node\ getRightSon()
+comment4.params=t
+comment4.target=int\ f(Node)
+comment5.params=n
+comment5.target=boolean\ isLeaf(Node)
+comment6.params=a\ b
+comment6.target=int\ min(int,\ int)
+comment7.params=t
+comment7.target=Node\ what(Node)
+comment8.params=t\ num
+comment8.target=Node\ what(Node,\ int)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

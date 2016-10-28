@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=maze
+comment0.target=Maze(int[][])
+comment1.params=i\ j
+comment1.target=boolean\ solvemaze(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=a
+comment3.target=void\ print(int[][])
+comment4.params=m
+comment4.target=void\ printPathWeights(int[][])
+comment5.params=m\ i\ j\ sum
+comment5.target=void\ printPathWeights(int[][],\ int,\ int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

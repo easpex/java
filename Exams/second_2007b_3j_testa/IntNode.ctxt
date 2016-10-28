@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=data\ n
+comment0.target=IntNode(int,\ IntNode)
+comment1.params=node
+comment1.target=boolean\ what(IntNode)
+comment2.params=str\ i\ j
+comment2.target=void\ g(java.lang.String,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

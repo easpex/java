@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CircularList()
+comment1.params=node
+comment1.target=void\ add(IntNode)
+numComments=2

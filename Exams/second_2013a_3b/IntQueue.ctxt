@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IntQueue()
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=newItem
+comment2.target=void\ enqueue(IntNode)
+comment3.params=
+comment3.target=int\ dequeue()
+comment4.params=
+comment4.target=void\ remove()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=q
+comment6.target=int\ what(IntQueue)
+comment7.params=x\ y
+comment7.target=boolean\ something(IntQueue,\ IntQueue)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

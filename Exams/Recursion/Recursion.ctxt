@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ target\ i\ sumSoFar
+comment0.target=boolean\ recSubset(int[],\ int,\ int,\ int)
+comment1.params=data\ i
+comment1.target=boolean\ slope(int[][],\ int)
+comment2.params=data\ i\ j
+comment2.target=boolean\ check(int[][],\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=m\ i\ j\ sum
+comment4.target=void\ printPathWeights(int[][],\ int,\ int,\ int)
+comment5.params=a
+comment5.target=void\ print(int[][])
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=IntVector(int)
+comment1.params=a
+comment1.target=void\ fill(int[])
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=void\ what()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

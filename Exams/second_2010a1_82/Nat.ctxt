@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nat()
+comment1.params=pre
+comment1.target=Nat(Nat)
+comment2.params=
+comment2.target=boolean\ isZero()
+comment3.params=
+comment3.target=Nat\ succ()
+comment4.params=other
+comment4.target=boolean\ equals(Nat)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

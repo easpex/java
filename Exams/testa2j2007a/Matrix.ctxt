@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=sizeRow\ sizeCol
+comment0.target=Matrix(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MaxLineRecursion\r\n
+comment1.params=
+comment1.target=void\ fill()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=row
+comment3.target=int\ rowSum(int)
+comment4.params=i\ row
+comment4.target=int\ rowSum(int,\ int)
+comment5.params=
+comment5.target=int\ maxRow()
+comment6.params=row
+comment6.target=int\ maxRow(int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

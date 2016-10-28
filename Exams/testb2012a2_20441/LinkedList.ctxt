@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinkedList()
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=num
+comment2.target=void\ foo(int)
+comment3.params=
+comment3.target=LinkedList\ what()
+comment4.params=other
+comment4.target=void\ concat(LinkedList)
+comment5.params=list
+comment5.target=LinkedList\ what(LinkedList)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

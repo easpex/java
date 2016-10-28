@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s\ n\ i\ j\ sum
+comment0.target=boolean\ isSumOf(int[],\ int,\ int,\ int,\ int)
+comment1.params=s\ n
+comment1.target=boolean\ isSumOf(int[],\ int)
+comment2.params=A\ curr\ index\ sum
+comment2.target=boolean\ find(int[],\ int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

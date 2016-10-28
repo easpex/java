@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IntList()
+comment1.params=node
+comment1.target=IntList(IntNode)
+comment2.params=
+comment2.target=java.lang.String\ bigToString()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=num\ position
+comment4.target=IntList\ addNumber(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

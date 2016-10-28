@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=C(int)
+comment1.params=other
+comment1.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=int\ get()
+numComments=3

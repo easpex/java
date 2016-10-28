@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=ch
+comment0.target=CharList(CharNode)
+comment1.params=start\ end
+comment1.target=int\ what(char,\ char)
+comment2.params=start\ end
+comment2.target=int\ what2(char,\ char)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

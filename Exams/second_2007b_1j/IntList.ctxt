@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IntList()
+comment1.params=node
+comment1.target=IntList(IntNode)
+comment2.params=
+comment2.target=IntNode\ getHead()
+comment3.params=other
+comment3.target=IntNode\ findMaxSuffix(IntNode)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

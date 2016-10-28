@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=list\ node
+comment0.target=Crunchify(java.util.ArrayList,\ Crunchify)
+comment1.params=crunch
+comment1.target=void\ add(Crunchify)
+comment2.params=crunchifyCSV
+comment2.target=java.util.ArrayList\ crunchifyCSVtoArrayList(java.lang.String)
+numComments=3

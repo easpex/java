@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a\ i\ j\ count
+comment0.target=void\ knight(int[][],\ int,\ int,\ int)
+comment1.params=a\ i\ j\ index\ count
+comment1.target=boolean\ knight2(int[][],\ int,\ int,\ int,\ int)
+comment2.params=a\ x\ y\ m
+comment2.target=boolean\ move(int[][],\ int,\ int,\ int)
+comment3.params=a
+comment3.target=void\ print(int[][])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
